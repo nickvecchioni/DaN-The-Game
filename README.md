@@ -1,4 +1,4 @@
-# BYOW
+# DaN The Game
 ![alt text](https://sp19.datastructur.es/materials/proj/proj3/img/compliant_world_example.png)
 
 BYOW, standing for "Build Your Own World", is a 2D random world generation game I created my freshman year at UC Berkeley for CS 61B.
