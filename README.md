@@ -7,3 +7,5 @@ random worlds based on a given seed. The project contains 3 main folders: Core, 
 Java file in addition to a basic game engine that enables the game to run. Map contains all of the files needed for the random 
 world generation, including functionality for randomly constructing hallways and rooms. TileEngine stores the files for creating
 a visual representation of the game for the user, primarily utilizing a collection of predefined colored tiles.
+
+Since this is a class project, only some files are provided for reference. As a result, this README does not provide instructions for running the program.
