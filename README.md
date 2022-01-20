@@ -1,7 +1,7 @@
 # DaN The Game
 ![alt text](https://sp19.datastructur.es/materials/proj/proj3/img/compliant_world_example.png)
 
-DaN The Game is a 2D random world generation game I created my freshman year at UC Berkeley for CS 61B.
+DaN The Game is a 2D random world generation game I created my freshman year at UC Berkeley for CS 61B: Data Structures.
 
 There are a few goals such as aquiring water, flowers, and power-ups (lore included), but the meat of the program is in generating the 
 random worlds based on a given seed. 
